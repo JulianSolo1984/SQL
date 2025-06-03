@@ -1,4 +1,5 @@
 /* SELECT names */
+/* LINK: https://www.sqlzoo.net/wiki/SELECT_names */
 
 /* Q1 */
 SELECT name FROM world
